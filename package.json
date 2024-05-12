@@ -1,0 +1,17 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "Some Jest testing practice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
